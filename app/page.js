@@ -29,7 +29,7 @@ export default function Home() {
               </select>
             </div>
             <button className="px-4 mt-4 bg-gray-200 rounded-md flex justify-around items-center gap-2">
-              <img src="/images/input-search.png" alt="" />
+              <img src="/images/input-search.png" alt="search" />
               <div>
               Search
               </div>
@@ -48,7 +48,7 @@ export default function Home() {
               <div className="flex justify-between items-center">
                 <h2 className="text-lg font-semibold">Filters</h2>
                 <button className="text-gray-400 hover:text-gray-600">
-                  <img src="/images/close-Icon.png" alt="" />
+                  <img src="/images/close-Icon.png" alt="close" />
                 </button>
               </div>
 
@@ -91,7 +91,7 @@ export default function Home() {
             <div className="border border-gray-300 rounded-md">
               <div className="p-4 flex flex-col  bg-slate-100 md:flex-row justify-between items-center mb-4">
                 <div className="logo md:w-52 w-full">
-                  <img src="/images/BlueStar.png" className="w-full h-auto" />
+                  <img src="/images/BlueStar.png" alt="blue-star" className="w-full h-auto" />
                 </div>
                 <div className="text-center md:text-right">
                   <h3 className="text-lg font-semibold">Blue Star Ferries</h3>
@@ -146,7 +146,7 @@ export default function Home() {
             <div className="my-10 border border-gray-300 rounded-md">
               <div className="flex p-4 bg-slate-100 flex-col md:flex-row justify-between items-center mb-4">
                 <div className="logo md:w-52 w-full">
-                  <img src="/images/seaJets.png" className="w-full h-auto" />
+                  <img src="/images/seaJets.png" alt="seaJet" className="w-full h-auto" />
                 </div>
                 <div className="text-center md:text-right">
                   <h3 className="text-lg font-semibold">Seajets</h3>
@@ -186,7 +186,7 @@ export default function Home() {
                     Seajets is the biggest company of high-speed vessels of the
                     Aegean Sea. It is a joint venture of speedboats that was
                     initially founded in 1989 to provide shipping services. The
-                    company's passenger ferries have been connecting over 26
+                    companys passenger ferries have been connecting over 26
                     destinations in the Aegean Sea since 2002. Their fleet
                     consists of 14 high-speed catamarans and 3 conventional
                     ones, with a speed of up to 50 knots. Seajets connect the
@@ -207,7 +207,7 @@ export default function Home() {
             <div className="border border-gray-300 rounded-md">
               <div className="p-4 bg-slate-100 flex flex-col md:flex-row justify-between items-center mb-4">
                 <div className="logo md:w-52 w-full">
-                  <img src="/images/Anek.png" className="w-full h-auto" />
+                  <img src="/images/Anek.png" alt="anek" className="w-full h-auto" />
                 </div>
                 <div className="text-center md:text-right">
                   <h3 className="text-lg font-semibold">Anek - Superfast</h3>
